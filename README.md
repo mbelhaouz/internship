@@ -37,7 +37,7 @@ npm start
 ### Lancement du projet grâce à la commande : node server.js ou npm start ####
 
 
-#### Le lancement de l'application peut prendre quelques minutes ######
+#### Le lancement de l'application peut prendre entre 1 et 2 minutes ######
 
 
 ##### Se rendre à http://localhost:8080/ après la reception du message ℹ ｢wdm｣: Compiled successfully. #####
@@ -45,6 +45,9 @@ npm start
 
 
 #### Base de données MongoDB utilisé est locale :   db_dev: 'mongodb://localhost:27017/internship_db', voir fichier config/config.js ######
+
+
+#### L'IDE utilisé pour l'implémentation est Atom #####
 
 
 
