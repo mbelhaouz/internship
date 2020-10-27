@@ -27,7 +27,7 @@ npm start
 
 ##### Le lancement du projet prend quelques minutes ########
 
-#### Après le lancement il faut créer un compte avec email : (test1@gmail.com | password : test) pour que les scripts de test (puppeteer) fonctionnent sans erreurs sinon les modifier ####   
+#### Après le lancement il faut créer un compte ( en utilisant la fonctionnalité Inscription) avec email : (test1@gmail.com | password : test) pour que les scripts de test (puppeteer) fonctionnent sans erreurs sinon les modifier ####   
 
 #### L'application WEB permet de créer des comptes/se connecter aux comptes et se déconnecter grâce au token #######
 
