@@ -195,7 +195,7 @@ class Home extends Component {
 
 
 
-  /* logout(){
+   logout(){
     this.setState({
       isLoading: true,
     });
@@ -230,7 +230,7 @@ class Home extends Component {
 
 
 
-  }*/
+  }
 
 
   render() {
@@ -259,8 +259,8 @@ class Home extends Component {
               ) : (null)
              }
             <p>Connexion</p>
-            <input type="email" placeholder="Email" value={signInEmail} onChange={this.onTextboxChangeSignInEmail}/><br />
-            <input type="password" placeholder="Password" value={signInPassword} onChange={this.onTextboxChangeSignInPassword}/><br />
+            <input type="email" placeholder="Email" id="Email" value={signInEmail} onChange={this.onTextboxChangeSignInEmail}/><br />
+            <input type="password" placeholder="Password" id="Password" value={signInPassword} onChange={this.onTextboxChangeSignInPassword}/><br />
             <button onClick={this.onSignIn}>Connexion</button>
 
         </div>
