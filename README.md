@@ -31,7 +31,7 @@ npm start
 
 #### L'application WEB permet de créer des comptes/se connecter aux comptes et se déconnecter grâce au token #######
 
-#### Pour tester le jeu de test grâce à puppeteer, il va falloir lancer l'application et puis lancer les scripts de test ( node test_success.js  ou node test_error.js ) #####
+#### Pour tester le jeu de test grâce à puppeteer, il va falloir lancer l'application et puis lancer les scripts de test  avec cette commande : ( node test_success.js | node test_error.js ) #####
 
 #### Executer la commande npm install pour setup l'application ######
 
