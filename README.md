@@ -25,7 +25,7 @@ npm start
 ```
 
 
-##### Priorité : Créer un compte grâce à la fonctionnalité Inscription: avec email : (test1@gmail.com | password : test)  ########
+#####  ℹ Priorité ℹ : Créer un compte grâce à la fonctionnalité Inscription: avec email : (test1@gmail.com | password : test)  ########
 
 #### Après le lancement il faut créer un compte ( en utilisant la fonctionnalité Inscription) avec email : (test1@gmail.com | password : test) pour que les scripts de test (puppeteer) fonctionnent sans erreurs sinon les modifier ####   
 
